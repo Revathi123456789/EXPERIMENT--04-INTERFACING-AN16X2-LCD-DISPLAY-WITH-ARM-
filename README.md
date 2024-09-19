@@ -173,6 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include"lcd.h"
 
   Lcd_PortType ports[] = {GPIOA,GPIOA,GPIOA,GPIOA};
@@ -188,9 +189,9 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## Output screen shots of proteus  :
- ![Screenshot 2024-09-19 094046](https://github.com/user-attachments/assets/0834abc4-372a-42e5-83f8-0f2610db37b7)
 
- 
+ <img width="956" alt="image" src="https://github.com/user-attachments/assets/a83ee34b-68df-4bef-9504-515e052229fa">
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  <img width="491" alt="image" src="https://github.com/user-attachments/assets/77f2b0c5-8535-480f-9ade-95099e6a9831">
 
