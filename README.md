@@ -195,7 +195,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  <img width="491" alt="image" src="https://github.com/user-attachments/assets/77f2b0c5-8535-480f-9ade-95099e6a9831">
 
- 
-## Result :
+ ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
